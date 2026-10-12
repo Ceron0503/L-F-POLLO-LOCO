@@ -291,37 +291,37 @@
   "custom_animations_enable": true,
   "custom_animations": [
     {
-      "item": "animation_dx8000",
+      "item": "animation_s1u2",
       "value": "",
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/L-F-POLLO-LOCO/refs/heads/main/PLOCO-HOME.json",
       "url_denied": "",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
     },
     {
-      "item": "animation_ex6000",
+      "item": "animation_s1f4",
       "value": "",
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/L-F-POLLO-LOCO/refs/heads/main/PLOCO-HOME.json",
       "url_denied": "",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
     },
     {
-      "item": "animation_dx6000",
+      "item": "animation_s2l",
       "value": "",
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/L-F-POLLO-LOCO/refs/heads/main/PLOCO-HOME.json",
       "url_denied": "",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
@@ -333,7 +333,7 @@
       "url_insert": "",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/L-F-POLLO-LOCO/refs/heads/main/PLOCO-HOME.json",
       "url_denied": "",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
@@ -346,7 +346,7 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "",
-      "url_denied": "",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/L-F-POLLO-LOCO/refs/heads/main/PLOCO-HOME.json",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
     },
@@ -358,7 +358,7 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "",
-      "url_denied": "",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/L-F-POLLO-LOCO/refs/heads/main/PLOCO-HOME.json",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
     }
